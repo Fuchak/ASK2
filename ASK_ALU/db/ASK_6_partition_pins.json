@@ -1,0 +1,233 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "flagg[5]",
+					"strict" : false
+				},
+				{
+					"name" : "flagg[4]",
+					"strict" : false
+				},
+				{
+					"name" : "flagg[3]",
+					"strict" : false
+				},
+				{
+					"name" : "flagg[2]",
+					"strict" : false
+				},
+				{
+					"name" : "flagg[1]",
+					"strict" : false
+				},
+				{
+					"name" : "flagg[0]",
+					"strict" : false
+				},
+				{
+					"name" : "wy1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "wy1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "wy1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "wy1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "wy1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "wy1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "wy1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "wy1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "adr7[1]",
+					"strict" : false
+				},
+				{
+					"name" : "adr7[0]",
+					"strict" : false
+				},
+				{
+					"name" : "adr3",
+					"strict" : false
+				},
+				{
+					"name" : "adr8[1]",
+					"strict" : false
+				},
+				{
+					"name" : "adr8[0]",
+					"strict" : false
+				},
+				{
+					"name" : "we1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "we2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "we2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "we1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "we2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "we1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "we2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "we1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "we2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "we1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "we2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "we1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "we2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "we1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "we2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "we1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "adr1",
+					"strict" : false
+				},
+				{
+					"name" : "we4[6]",
+					"strict" : false
+				},
+				{
+					"name" : "we3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "adr2",
+					"strict" : false
+				},
+				{
+					"name" : "we4[5]",
+					"strict" : false
+				},
+				{
+					"name" : "we3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "we4[4]",
+					"strict" : false
+				},
+				{
+					"name" : "we3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "we4[3]",
+					"strict" : false
+				},
+				{
+					"name" : "we3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "we4[2]",
+					"strict" : false
+				},
+				{
+					"name" : "we3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "we4[1]",
+					"strict" : false
+				},
+				{
+					"name" : "we3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "cin",
+					"strict" : false
+				},
+				{
+					"name" : "we4[0]",
+					"strict" : false
+				},
+				{
+					"name" : "we3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "we4[7]",
+					"strict" : false
+				},
+				{
+					"name" : "we3[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ld_flags",
+					"strict" : false
+				},
+				{
+					"name" : "RESET",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

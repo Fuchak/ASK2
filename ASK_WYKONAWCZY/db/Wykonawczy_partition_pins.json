@@ -1,0 +1,121 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "wy[7]",
+					"strict" : false
+				},
+				{
+					"name" : "wy[6]",
+					"strict" : false
+				},
+				{
+					"name" : "wy[5]",
+					"strict" : false
+				},
+				{
+					"name" : "wy[4]",
+					"strict" : false
+				},
+				{
+					"name" : "wy[3]",
+					"strict" : false
+				},
+				{
+					"name" : "wy[2]",
+					"strict" : false
+				},
+				{
+					"name" : "wy[1]",
+					"strict" : false
+				},
+				{
+					"name" : "wy[0]",
+					"strict" : false
+				},
+				{
+					"name" : "we[7]",
+					"strict" : false
+				},
+				{
+					"name" : "adr0",
+					"strict" : false
+				},
+				{
+					"name" : "adr4",
+					"strict" : false
+				},
+				{
+					"name" : "adr5",
+					"strict" : false
+				},
+				{
+					"name" : "we[6]",
+					"strict" : false
+				},
+				{
+					"name" : "we[5]",
+					"strict" : false
+				},
+				{
+					"name" : "we[4]",
+					"strict" : false
+				},
+				{
+					"name" : "we[3]",
+					"strict" : false
+				},
+				{
+					"name" : "we[2]",
+					"strict" : false
+				},
+				{
+					"name" : "we[1]",
+					"strict" : false
+				},
+				{
+					"name" : "we[0]",
+					"strict" : false
+				},
+				{
+					"name" : "adr8[0]",
+					"strict" : false
+				},
+				{
+					"name" : "adr8[1]",
+					"strict" : false
+				},
+				{
+					"name" : "adr3",
+					"strict" : false
+				},
+				{
+					"name" : "adr1",
+					"strict" : false
+				},
+				{
+					"name" : "cin",
+					"strict" : false
+				},
+				{
+					"name" : "adr7[1]",
+					"strict" : false
+				},
+				{
+					"name" : "adr7[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ld5",
+					"strict" : false
+				},
+				{
+					"name" : "RESET",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,31 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity flag_reg_extend is
+    port(a, b: in std_logic_vector(7 downto 0);
+         flag: out std_logic_vector(2 downto 0);
+         Cout, Oout, Zout: out std_logic);
+end flag_reg_extend;
+
+architecture flag_reg_extend_arch of flag_reg_extend is
+begin
+    process(a, b)
+    begin
+        if a > b then
+            flag <= "001"; -- flag = 001 oznacza, że a > b
+            Cout <= '0';
+            Oout <= '0';
+            Zout <= '0';
+        elsif a < b then
+            flag <= "010"; -- flag = 010 oznacza, że a < b
+            Cout <= '0';
+            Oout <= '0';
+            Zout <= '0';
+        else
+            flag <= "100"; -- flag = 100 oznacza, że a = b
+            Cout <= '0';
+            Oout <= '0';
+            Zout <= '1';
+        end if;
+    end process;
+end flag_reg_extend_arch;
